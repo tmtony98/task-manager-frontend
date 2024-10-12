@@ -1,0 +1,47 @@
+.App {
+  /* height: 100vh; */
+  min-height: 100vh;
+  width: 100%;
+  background-color: black;
+}
+
+.app-row {
+  padding-top: 100px;
+}
+
+.form-label {
+  font-size:22px;
+  color: white;
+}
+
+.task-field {
+  height: 45px;
+
+}
+
+.submit-btn {
+  height: 45px;
+  width: 150px;
+  margin-left: 10px;
+}
+
+.task-card {
+  margin-bottom: 15px;
+  padding-top: 10px;
+  background-color:#333333;
+  /* border: 1px solid rgb(255, 255, 255); */
+  border-radius: 5px;
+  height: 60px;
+}
+
+.task-text {
+  font-weight: 500;
+  color: rgb(255, 255, 255);
+  margin-left: 12px;
+  margin-top: 5px;
+}
+
+.btns button {
+  height: 40px;
+  margin-right: 10px;
+}
